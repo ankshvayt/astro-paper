@@ -1,7 +1,8 @@
 {
-  "name": "astro-paper",
+  "name": "ankur-shrivastav-blog",
   "type": "module",
-  "version": "5.5.1",
+  "version": "1.0.0",
+  "author": "Ankur Shrivastav",
   "scripts": {
     "dev": "astro dev",
     "build": "astro check && astro build && pagefind --site dist && cp -r dist/pagefind public/",

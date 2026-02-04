@@ -19,12 +19,16 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
 const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
 ---
 
-<Layout>
+<Layout
+  title="Ankur Shrivastav | Agentic AI & AI Product Strategy"
+  description="Insights on Agentic AI, LLMs, AI Product Strategy, and Evals by Ankur Shrivastav. Exploring the future of AI development and engineering."
+  keywords="Agentic AI, LLMs, AI Product Strategy, AI Evals, AI Engineering, AI Development, Ankur Shrivastav"
+>
   <Header />
   <main id="main-content" data-layout="index" class="app-layout">
     <section id="hero" class:list={["pt-8 pb-6", "border-b border-border"]}>
       <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-5xl">
-        Mingalaba
+        Hello!
       </h1>
       <a
         target="_blank"
@@ -42,19 +46,13 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
       </a>
 
       <p>
-        AstroPaper is a minimal, responsive, accessible and SEO-friendly Astro
-        blog theme. This theme follows best practices and provides accessibility
-        out of the box. Light and dark mode are supported by default. Moreover,
-        additional color schemes can also be configured.
+        Welcome. I'm Ankur Shrivastav, and here I share my
+        thoughts, experiences, and learnings about AI, Agentic AI, LLMs, LLM Evals, 
+        AI Product Strategies, and the evolving landscape of technology.
       </p>
       <p class="mt-2">
-        Read the blog posts or check
-        <LinkButton
-          class="underline decoration-dashed underline-offset-4 hover:text-accent"
-          href="https://github.com/satnaing/astro-paper#readme"
-        >
-          README
-        </LinkButton> for more info.
+        Feel free to explore my posts or connect with me through the social links
+        below.
       </p>
       {
         // only display if at least one social link is enabled
