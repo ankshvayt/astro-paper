@@ -1,9 +1,9 @@
 ---
 author: Ankur Shrivastav
-pubDatetime: 2026-02-05T00:00:00Z
+pubDatetime: 2026-02-03T00:00:00Z
 title: Welcome to my new blog
 slug: welcome-to-my-new-blog
-featured: true
+featured: false
 draft: false
 tags:
   - introduction
