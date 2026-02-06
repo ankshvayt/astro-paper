@@ -1,6 +1,6 @@
 ---
 title: "The Plugin is the Product: Why Anthropic's Cowork Is a Tectonic Shift for Software"
-pubDatetime: 2026-02-06
+pubDatetime: 2026-02-04
 description: "A deep dive into Anthropic's Cowork plugins and the underlying Model Context Protocol (MCP). I analyze the disruptive impact on the software industry, the new high-agency playbook for professionals, and the economic realities of the agentic AI revolution."
 author: "Ankur Shrivastava"
 tags:

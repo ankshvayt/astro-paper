@@ -1,6 +1,6 @@
 ---
 title: Your Agentic AI is a Ticking Time Bomb. Evals Are Your Only Defusal Kit.
-pubDatetime: 2026-02-12
+pubDatetime: 2026-02-06
 description: In 2026, single-turn vibe checks are obsolete. 95% of AI pilots fail because they can't manage agentic complexity. As a PM who has scaled products to tens of millions of users, here is my updated, step-by-step guide to shipping resilient AI agents.
 author: Ankur Shrivastava
 tags:
